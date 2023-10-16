@@ -1,0 +1,15 @@
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\bin\Debug\net7.0\표현가능한이진트리01.exe
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\bin\Debug\net7.0\표현가능한이진트리01.deps.json
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\bin\Debug\net7.0\표현가능한이진트리01.runtimeconfig.json
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\bin\Debug\net7.0\표현가능한이진트리01.dll
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\bin\Debug\net7.0\표현가능한이진트리01.pdb
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\obj\Debug\net7.0\표현가능한이진트리01.csproj.AssemblyReference.cache
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\obj\Debug\net7.0\표현가능한이진트리01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\obj\Debug\net7.0\표현가능한이진트리01.AssemblyInfoInputs.cache
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\obj\Debug\net7.0\표현가능한이진트리01.AssemblyInfo.cs
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\obj\Debug\net7.0\표현가능한이진트리01.csproj.CoreCompileInputs.cache
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\obj\Debug\net7.0\표현가능한이진트리01.dll
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\obj\Debug\net7.0\refint\표현가능한이진트리01.dll
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\obj\Debug\net7.0\표현가능한이진트리01.pdb
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\obj\Debug\net7.0\표현가능한이진트리01.genruntimeconfig.cache
+C:\Users\ite47\source\repos\ConsoleApp2\표현가능한이진트리01\obj\Debug\net7.0\ref\표현가능한이진트리01.dll

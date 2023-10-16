@@ -1,0 +1,15 @@
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\obj\Debug\net7.0\표병합01.csproj.AssemblyReference.cache
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\obj\Debug\net7.0\표병합01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\obj\Debug\net7.0\표병합01.AssemblyInfoInputs.cache
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\obj\Debug\net7.0\표병합01.AssemblyInfo.cs
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\obj\Debug\net7.0\표병합01.csproj.CoreCompileInputs.cache
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\bin\Debug\net7.0\표병합01.exe
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\bin\Debug\net7.0\표병합01.deps.json
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\bin\Debug\net7.0\표병합01.runtimeconfig.json
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\bin\Debug\net7.0\표병합01.dll
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\bin\Debug\net7.0\표병합01.pdb
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\obj\Debug\net7.0\표병합01.dll
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\obj\Debug\net7.0\refint\표병합01.dll
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\obj\Debug\net7.0\표병합01.pdb
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\obj\Debug\net7.0\표병합01.genruntimeconfig.cache
+C:\Users\ite47\source\repos\ConsoleApp2\표병합01\obj\Debug\net7.0\ref\표병합01.dll

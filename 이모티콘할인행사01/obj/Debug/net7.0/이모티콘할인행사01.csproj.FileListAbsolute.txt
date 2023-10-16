@@ -1,0 +1,15 @@
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\bin\Debug\net7.0\이모티콘할인행사01.exe
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\bin\Debug\net7.0\이모티콘할인행사01.deps.json
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\bin\Debug\net7.0\이모티콘할인행사01.runtimeconfig.json
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\bin\Debug\net7.0\이모티콘할인행사01.dll
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\bin\Debug\net7.0\이모티콘할인행사01.pdb
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\obj\Debug\net7.0\이모티콘할인행사01.csproj.AssemblyReference.cache
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\obj\Debug\net7.0\이모티콘할인행사01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\obj\Debug\net7.0\이모티콘할인행사01.AssemblyInfoInputs.cache
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\obj\Debug\net7.0\이모티콘할인행사01.AssemblyInfo.cs
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\obj\Debug\net7.0\이모티콘할인행사01.csproj.CoreCompileInputs.cache
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\obj\Debug\net7.0\이모티콘할인행사01.dll
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\obj\Debug\net7.0\refint\이모티콘할인행사01.dll
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\obj\Debug\net7.0\이모티콘할인행사01.pdb
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\obj\Debug\net7.0\이모티콘할인행사01.genruntimeconfig.cache
+C:\Users\ite47\source\repos\ConsoleApp2\이모티콘할인행사01\obj\Debug\net7.0\ref\이모티콘할인행사01.dll

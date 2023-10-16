@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "표현가능한이진트리01/1.0.0": {
+        "runtime": {
+          "표현가능한이진트리01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "표현가능한이진트리01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

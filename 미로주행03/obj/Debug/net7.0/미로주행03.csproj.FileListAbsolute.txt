@@ -1,0 +1,15 @@
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\obj\Debug\net7.0\미로주행03.csproj.AssemblyReference.cache
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\obj\Debug\net7.0\미로주행03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\obj\Debug\net7.0\미로주행03.AssemblyInfoInputs.cache
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\obj\Debug\net7.0\미로주행03.AssemblyInfo.cs
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\obj\Debug\net7.0\미로주행03.csproj.CoreCompileInputs.cache
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\bin\Debug\net7.0\미로주행03.exe
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\bin\Debug\net7.0\미로주행03.deps.json
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\bin\Debug\net7.0\미로주행03.runtimeconfig.json
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\bin\Debug\net7.0\미로주행03.dll
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\bin\Debug\net7.0\미로주행03.pdb
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\obj\Debug\net7.0\미로주행03.dll
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\obj\Debug\net7.0\refint\미로주행03.dll
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\obj\Debug\net7.0\미로주행03.pdb
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\obj\Debug\net7.0\미로주행03.genruntimeconfig.cache
+C:\Users\ite47\source\repos\ConsoleApp2\미로주행03\obj\Debug\net7.0\ref\미로주행03.dll

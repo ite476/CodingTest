@@ -1,0 +1,15 @@
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\bin\Debug\net7.0\택배배달과수거하기01.exe
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\bin\Debug\net7.0\택배배달과수거하기01.deps.json
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\bin\Debug\net7.0\택배배달과수거하기01.runtimeconfig.json
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\bin\Debug\net7.0\택배배달과수거하기01.dll
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\bin\Debug\net7.0\택배배달과수거하기01.pdb
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\obj\Debug\net7.0\택배배달과수거하기01.csproj.AssemblyReference.cache
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\obj\Debug\net7.0\택배배달과수거하기01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\obj\Debug\net7.0\택배배달과수거하기01.AssemblyInfoInputs.cache
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\obj\Debug\net7.0\택배배달과수거하기01.AssemblyInfo.cs
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\obj\Debug\net7.0\택배배달과수거하기01.csproj.CoreCompileInputs.cache
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\obj\Debug\net7.0\택배배달과수거하기01.dll
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\obj\Debug\net7.0\refint\택배배달과수거하기01.dll
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\obj\Debug\net7.0\택배배달과수거하기01.pdb
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\obj\Debug\net7.0\택배배달과수거하기01.genruntimeconfig.cache
+C:\Users\ite47\source\repos\ConsoleApp2\택배배달과수거하기01\obj\Debug\net7.0\ref\택배배달과수거하기01.dll

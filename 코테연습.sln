@@ -78,6 +78,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루�
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[프로그래머스][2022 KAKAO BLIND RECRUITMENT][Lv.2] 양궁대회", "[프로그래머스][2022 KAKAO BLIND RECRUITMENT][Lv.2] 양궁대회\[프로그래머스][2022 KAKAO BLIND RECRUITMENT][Lv.2] 양궁대회.csproj", "{3F7E5562-9F9E-4021-AA6B-397C5CD30F19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -224,6 +226,10 @@ Global
 		{2AA00109-6A89-428B-89CE-A5A5D9908635}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AA00109-6A89-428B-89CE-A5A5D9908635}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AA00109-6A89-428B-89CE-A5A5D9908635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7E5562-9F9E-4021-AA6B-397C5CD30F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7E5562-9F9E-4021-AA6B-397C5CD30F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7E5562-9F9E-4021-AA6B-397C5CD30F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7E5562-9F9E-4021-AA6B-397C5CD30F19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

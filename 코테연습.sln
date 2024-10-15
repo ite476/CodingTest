@@ -80,6 +80,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[프로그래머스][2022 KAKAO BLIND RECRUITMENT][Lv.2] 양궁대회", "[프로그래머스][2022 KAKAO BLIND RECRUITMENT][Lv.2] 양궁대회\[프로그래머스][2022 KAKAO BLIND RECRUITMENT][Lv.2] 양궁대회.csproj", "{3F7E5562-9F9E-4021-AA6B-397C5CD30F19}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "프로그래머스", "프로그래머스", "{8F8CBCE6-991B-46F1-9DB2-4E3928D4C63C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2024 KAKAO WINTER INTERNSHIP", "2024 KAKAO WINTER INTERNSHIP", "{F34B394F-8D15-40EC-826C-CDCAF0936AA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[Lv.1] 가장 많이 받은 선물", "[Lv.1] 가장 많이 받은 선물\[Lv.1] 가장 많이 받은 선물.csproj", "{3A784DF8-A12F-4A1E-9057-FD15A507F5B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -230,9 +236,17 @@ Global
 		{3F7E5562-9F9E-4021-AA6B-397C5CD30F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F7E5562-9F9E-4021-AA6B-397C5CD30F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F7E5562-9F9E-4021-AA6B-397C5CD30F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A784DF8-A12F-4A1E-9057-FD15A507F5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A784DF8-A12F-4A1E-9057-FD15A507F5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A784DF8-A12F-4A1E-9057-FD15A507F5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A784DF8-A12F-4A1E-9057-FD15A507F5B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F34B394F-8D15-40EC-826C-CDCAF0936AA0} = {8F8CBCE6-991B-46F1-9DB2-4E3928D4C63C}
+		{3A784DF8-A12F-4A1E-9057-FD15A507F5B7} = {F34B394F-8D15-40EC-826C-CDCAF0936AA0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E02FE98F-45FF-4BD9-A9D3-5F969BD5C308}

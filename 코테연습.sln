@@ -21,8 +21,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "표병합01", "표병합01\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "하노이의탑", "하노이의탑\하노이의탑.csproj", "{80BD6B67-281A-405F-93FD-A5CE8C26DB80}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "금과은운반하기", "금과은운반하기\금과은운반하기.csproj", "{9AB1C335-8B44-4468-9EB6-BCCC6E20A4E4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{671D3860-2900-498C-BDB5-D1BD3A0F2E8F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{949489A9-7962-4854-B865-1A8C399BDC86}"
@@ -86,6 +84,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2024 KAKAO WINTER INTERNSHI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[Lv.1] 가장 많이 받은 선물", "[Lv.1] 가장 많이 받은 선물\[Lv.1] 가장 많이 받은 선물.csproj", "{3A784DF8-A12F-4A1E-9057-FD15A507F5B7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "월간 코드 챌린지 시즌3", "월간 코드 챌린지 시즌3", "{56AE8AE1-7F9C-4068-BEE1-4E9BA55F4A75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[Lv.3] 금과 은 운반하기", "[Lv.3] 금과 은 운반하기\[Lv.3] 금과 은 운반하기.csproj", "{3C8DB490-FC28-4505-9D50-160B37078D51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,10 +130,6 @@ Global
 		{80BD6B67-281A-405F-93FD-A5CE8C26DB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80BD6B67-281A-405F-93FD-A5CE8C26DB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80BD6B67-281A-405F-93FD-A5CE8C26DB80}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9AB1C335-8B44-4468-9EB6-BCCC6E20A4E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9AB1C335-8B44-4468-9EB6-BCCC6E20A4E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9AB1C335-8B44-4468-9EB6-BCCC6E20A4E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9AB1C335-8B44-4468-9EB6-BCCC6E20A4E4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{671D3860-2900-498C-BDB5-D1BD3A0F2E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{671D3860-2900-498C-BDB5-D1BD3A0F2E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{671D3860-2900-498C-BDB5-D1BD3A0F2E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -240,6 +238,10 @@ Global
 		{3A784DF8-A12F-4A1E-9057-FD15A507F5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A784DF8-A12F-4A1E-9057-FD15A507F5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A784DF8-A12F-4A1E-9057-FD15A507F5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C8DB490-FC28-4505-9D50-160B37078D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8DB490-FC28-4505-9D50-160B37078D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8DB490-FC28-4505-9D50-160B37078D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8DB490-FC28-4505-9D50-160B37078D51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -247,6 +249,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{F34B394F-8D15-40EC-826C-CDCAF0936AA0} = {8F8CBCE6-991B-46F1-9DB2-4E3928D4C63C}
 		{3A784DF8-A12F-4A1E-9057-FD15A507F5B7} = {F34B394F-8D15-40EC-826C-CDCAF0936AA0}
+		{56AE8AE1-7F9C-4068-BEE1-4E9BA55F4A75} = {8F8CBCE6-991B-46F1-9DB2-4E3928D4C63C}
+		{3C8DB490-FC28-4505-9D50-160B37078D51} = {56AE8AE1-7F9C-4068-BEE1-4E9BA55F4A75}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E02FE98F-45FF-4BD9-A9D3-5F969BD5C308}
